@@ -2,7 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@wagnermontanini-blue.svg?style=flat-square)](https://twitter.com/wagnermontanini)
 [![Source Code](http://img.shields.io/badge/source-wagnermontanini/goomerrestaurantes-blue.svg?style=flat-square)](https://github.com/wagnermontanini/goomerrestaurantes)
-
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 ###### Goomer Restaurantes Library is a Frontend capable of managing the restaurants and products on your menu.
 
