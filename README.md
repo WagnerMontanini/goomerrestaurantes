@@ -2,12 +2,7 @@
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@wagnermontanini-blue.svg?style=flat-square)](https://twitter.com/wagnermontanini)
 [![Source Code](http://img.shields.io/badge/source-wagnermontanini/goomerrestaurantes-blue.svg?style=flat-square)](https://github.com/wagnermontanini/goomerrestaurantes)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/wagnermontanini/goomerrestaurantes.svg?style=flat-square)](https://packagist.org/packages/wagnermontanini/goomerrestaurantes)
-[![Latest Version](https://img.shields.io/github/release/wagnermontanini/goomerrestaurantes.svg?style=flat-square)](https://github.com/wagnermontanini/goomerrestaurantes/releases)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/wagnermontanini/goomerrestaurantes.svg?style=flat-square)](https://scrutinizer-ci.com/g/wagnermontanini/goomerrestaurantes)
-[![Quality Score](https://img.shields.io/scrutinizer/g/wagnermontanini/goomerrestaurantes.svg?style=flat-square)](https://scrutinizer-ci.com/g/wagnermontanini/goomerrestaurantes)
-[![Total Downloads](https://img.shields.io/packagist/dt/wagnermontanini/goomerrestaurantes.svg?style=flat-square)](https://packagist.org/packages/cwagnermontanini/goomerrestaurantes)
+
 
 ###### Goomer Restaurantes Library is a Frontend capable of managing the restaurants and products on your menu.
 
