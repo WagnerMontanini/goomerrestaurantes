@@ -14,11 +14,11 @@ Você pode saber mais **[clicando aqui](https://goomer.com.br)**.
 
 - Simple installation (Instalação simples)
 
-![alt text](https://github.com/wagnermontanini/goomerrestaurantes/blob/master/media/front-restaurant.png?raw=true "Goomer Restaurantes")
+![alt tag](https://github.com/wagnermontanini/goomerrestaurantes/blob/main/media/front-restaurant.png?raw=true "Goomer Restaurantes")
 
-![alt text](https://github.com/wagnermontanini/goomerrestaurantes/blob/master/media/front-product.?raw=true "Goomer Restaurantes")
+![alt text](https://github.com/wagnermontanini/goomerrestaurantes/blob/main/media/front-product.png?raw=true "Goomer Restaurantes")
 
-![alt text](https://github.com/wagnermontanini/goomerrestaurantes/blob/master/media/front-restaurant.png?raw=true "Goomer Restaurantes")
+![alt text](https://github.com/wagnermontanini/goomerrestaurantes/blob/main/media/front-cart.png?raw=true "Goomer Restaurantes")
 
 ### Melhoras possiveis
 
