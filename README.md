@@ -20,6 +20,11 @@ Você pode saber mais **[clicando aqui](https://goomer.com.br)**.
 - Melhorias nos retornos dos erros.
 - Melhorias no sistema de carrinho.
 
+### Dificuldades
+
+- Criação do templade do frontend.
+- Vue uma ferramenta nova para mim tinha só visto um curso, nunca tinha realizado um projeto nele,porem preferi fazer também para aprendizado.
+
 ## Installation
 
 Uploader is available via Composer:
